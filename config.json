@@ -1,0 +1,21 @@
+{
+    "params":
+    {
+      "local_server":"True",
+      "local_uri": "mysql://root:@localhost/flask",
+      "prod_uri":"mysql://root:@localhost/flask",
+      "fb_url":"https://facebook.com",
+      "tw_url":"https://twitter.com",
+      "gh_url": "https://github.com",
+      "blog_name": "Marmik's first project",
+      "tag_line": "Thai jaay evi aasha",
+      "gmail-user":"your-email@gmail.com",
+      "gmail-password":"gmailpassword",
+      "no_of_posts":2,
+      "logo":"logo.jpg",
+      "admin_user":"marmik",
+      "admin_password":"m123",
+      "upload_location":"C:\\Users\\mnsha\\OneDrive\\Desktop\\flask_last_try\\flask project"
+    }
+  }
+  
